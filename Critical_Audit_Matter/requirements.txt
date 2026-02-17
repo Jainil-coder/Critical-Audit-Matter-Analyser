@@ -1,0 +1,7 @@
+flask
+pandas
+requests
+edgartools
+google-generativeai
+langchain
+langchain-core
